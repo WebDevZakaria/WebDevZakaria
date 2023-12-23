@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zakariabouregbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariabouregbi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zakaria-bouregbi-34603b27a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="zakariabouregbi" height="30" width="40" /></a>
 <a href="https://instagram.com/zikou_bour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zikou_bour" height="30" width="40" /></a>
 </p>
 
