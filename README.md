@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/zakariabouregbi" target="blank"><img src="https://img.shields.io/twitter/follow/zakariabouregbi?logo=twitter&style=for-the-badge" alt="zakariabouregbi" /></a> </p>
 
-- 🌱 I’m currently learning **microsoftazure**
+  
+- 🌱 I’m currently learning **microsoftazure, Graphql**
 
 - 💬 Ask me about **react js,Next js,django framework**
 
