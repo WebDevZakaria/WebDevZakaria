@@ -1,4 +1,4 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+<p align="center"> <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="zakariabouregbi" /> </p>
 <h1 align="center">Hi 👋, I'm Bouregbi Zakaria</h1>
 <h3 align="center">A passionate Web Developer from algeria</h3>
 
