@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zikou24&label=Profile%20views&color=0e75b6&style=flat" alt="zikou24" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zakariabouregbi" target="blank"><img src="https://img.shields.io/twitter/follow/zakariabouregbi?logo=twitter&style=for-the-badge" alt="zakariabouregbi" /></a> </p>
 
   
 - 🌱 I’m currently learning **microsoftazure, Graphql**
