@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zikou24&label=Profile%20views&color=0e75b6&style=flat" alt="zikou24" /> </p>
 
-<p align="left">Follow me on LinkedIn
-  <a href="https://www.linkedin.com/in/zakaria-bouregbi-34603b27a/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/922/linkedin.svg" alt="linkedin" width="40" height="40"/> </a></p>
-
-
   
 - 🌱 I’m currently learning **microsoftazure, Graphql**
 
